@@ -1,8 +1,4 @@
-package pr9;
-
-import java.util.concurrent.TimeUnit;
-import java.util.concurrent.locks.Condition;
-import java.util.concurrent.locks.ReentrantLock;
+package pr10;
 
 class Ping extends Thread
 {
